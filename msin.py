@@ -1,0 +1,1 @@
+print("msi chutiya hu")
